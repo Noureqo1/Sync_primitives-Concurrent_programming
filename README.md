@@ -32,15 +32,15 @@ Implements a thread-safe data structure using the synchronization concepts.
 
 ### Peterson's Algorithm
 ![Peterson's Algorithm](Output/Screenshot%202025-05-03%20213830.png)
-Output: The final count will be less than 2,000,000, demonstrating synchronization failure.
+Output: The final count is less than 2,000,000, demonstrating synchronization failure.
 
 ### Spinlock Implementation
 ![Spinlock Implementation](Output/Screenshot%202025-05-03%20213741.png)
-Output: The final count will be exactly 2,000,000, showing correct synchronization.
+Output: The final count is exactly 2,000,000, showing correct synchronization.
 
 ### Concurrent Linked List
 ![Peterson's Algorithm](Output/Screenshot%202025-05-03%20213514.png)
-Output: Will show the final list state and node count after concurrent operations.
+Output: Shows the final list state and node count after concurrent operations.
 
 ## Understanding the Results
 
